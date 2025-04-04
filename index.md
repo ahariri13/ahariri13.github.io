@@ -16,9 +16,9 @@ _PhD Student | Researcher | Innovator_
 
 I am a PhD student deeply passionate about **[your research area: AI, Robotics, Data Science, etc.]**. My work revolves around exploring innovative solutions in the field of [briefly mention your focus area]. Throughout my academic journey, I have delved into cutting-edge research projects that aim to [briefly describe your main objective/goal].
 
-- **Institution:** [Name of your university or research lab]  
-- **Department:** [Your department or research group]  
-- **Advisor:** [Name of your PhD supervisor, if applicable]  
+- **Institution:** EPFL
+- **Department:** Electrical Engineering
+- **Advisor:** Pierre Vandergheynst 
 
 In addition to my doctoral studies, I enjoy collaborating with teams on interdisciplinary projects, tutoring, and sharing knowledge with the broader community.
 
