@@ -1,99 +1,138 @@
 ---
 layout: default
 title: "Ali Hariri"
-description: "PhD Student • Researcher • Innovator"
+description: "PhD Student in Graph Representation Learning • EPFL"
 ---
 
-# Hello, I'm Ali Hariri!  
-_PhD Student | Researcher | Innovator_
+# Ali Hariri
+_PhD Student • Graph Representation Learning • EPFL_
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Ali%20Hariri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-hariri-06b847ba/)](https://www.linkedin.com/in/ali-hariri-06b847ba/)
-[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-black?style=flat-square&logo=github)](https://username.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ali--hariri--06b847ba-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ali-hariri-06b847ba/)  
+[![GitHub](https://img.shields.io/badge/GitHub-ahariri13-black?style=flat-square&logo=github)](https://github.com/ahariri13)  
+📧 [ali.hariri@epfl.ch](mailto:ali.hariri@epfl.ch)
 
 ---
 
 ## About Me
 
-I am a PhD student deeply passionate about **[your research area: AI, Robotics, Data Science, etc.]**. My work revolves around exploring innovative solutions in the field of [briefly mention your focus area]. Throughout my academic journey, I have delved into cutting-edge research projects that aim to [briefly describe your main objective/goal].
+I’m a PhD student at **EPFL (École Polytechnique Fédérale de Lausanne)** working in the **Signal Processing Laboratory (LTS2)** with **Prof. Pierre Vandergheynst**. My research focuses on **graph representation learning** applied to **protein structures**, where I explore advanced graph neural network techniques to tackle oversquashing and oversmoothing—two major limitations in current GNN architectures.
 
-- **Institution:** EPFL
-- **Department:** Electrical Engineering
-- **Advisor:** Pierre Vandergheynst 
-
-In addition to my doctoral studies, I enjoy collaborating with teams on interdisciplinary projects, tutoring, and sharing knowledge with the broader community.
+Currently, I’m developing **novel graph rewiring techniques** for molecular graphs, aiming to improve performance in tasks like **protein classification**, **structural similarity**, and **structure generation**, with future extensions toward **molecular dynamics**.
 
 ---
 
 ## Research Interests
 
-- **Topic 1:** Brief overview (e.g., _Machine Learning, Deep Learning, Reinforcement Learning, etc._)  
-- **Topic 2:** Brief overview (e.g., _Human-Robot Interaction, Natural Language Processing, etc._)  
-- **Topic 3:** Brief overview (e.g., _Computer Vision, Embedded Systems, etc._)
+- Graph Neural Networks (GNNs)
+- Graph Rewiring & Latent Space Learning
+- Protein Structure Representation
+- Deep Learning for Science (Physics, Biology)
+- Generative Models
+- High-Energy Physics Simulations
 
-By focusing on these areas, I strive to push the boundaries of what is possible, while making meaningful contributions to academic literature and practical applications.
+---
+
+## Experience
+
+### 🧬 PhD Student  
+**EPFL – Signal Processing Laboratory (LTS2)**  
+📍 Lausanne, Switzerland | _Oct 2021 – Present_
+
+- Researching long-range-aware graph representation learning techniques.
+- Developed graph rewiring methods for protein structures.
+- Applying graph learning models to protein classification, similarity detection, and generative tasks.
+
+### ☄️ Student Developer  
+**Google Summer of Code – CERN HEP Software Foundation**  
+_Remote | Summer 2020_
+
+- Created **FALCON**, a graph deep learning framework for simulating high-energy physics events.
+- Applied graph autoencoders to reconstruct particle-level events from point clouds.
+
+### 🔬 ML Researcher  
+**CMS Experiment, CERN / American University of Beirut**  
+_Remote | Jul 2019 – Dec 2020_
+
+- Built graph variational autoencoders (VAE) for jet reconstruction and simulation.
+- Scaled models using **Horovod** to achieve 2.76x speedup on multi-GPU setups.
+
+### 🛠️ Engineering Intern  
+**CERN**  
+_Geneva, Switzerland | Jun 2018 – Dec 2018_
+
+- Designed mechanical systems for Q74 superconducting magnet alignment and CHARM cable automation.
+- Used CATIA V5 and ANSYS for modeling and structural analysis.
+
+---
+
+## Education
+
+🎓 **PhD in Machine Learning**  
+EPFL – École Polytechnique Fédérale de Lausanne  
+_2021 – Present_
+
+🎓 **M.E. in Mechanical Engineering**  
+American University of Beirut  
+_2018 – 2020_
+
+🎓 **B.E. in Mechanical Engineering**  
+American University of Beirut  
+_2013 – 2017_
+
+---
+
+## Publications & Presentations
+
+- _Graph rewiring for long range-aware protein learning_, **NeurIPS ML4PS Workshop**, 2024  
+- _Capturing graph long range dependencies using the expressive power of latent space learning_, **MLCB (PMLR)**, 2024 (preprint)  
+- _Graph VAE for Detector Reconstruction and Fast Simulation_, **CHEP 2021** [[arXiv](https://arxiv.org/abs/2104.01725)]  
+- **GTC 2021 NVIDIA Talk**: _Scalable Graph Generative Models for Fast Simulation of Collision Events_  
+- _Graph Generative Models for Fast Detector Simulations_, **NeurIPS ML4PS 2020** [[paper](https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_138.pdf)]  
+- _Multi-channel detector simulation with GVAEs_, **SimDL ICLR Workshop 2021** [[paper](https://simdl.github.io/files/41.pdf)]
 
 ---
 
 ## Projects
 
-Here are some of my current and past research projects:
-
-1. **Project One**  
-   *Short description of the project and its significance.*  
-   [View on GitHub](#) | [Research Paper (if available)](#)
-
-2. **Project Two**  
-   *Short description about data collection, findings, or interesting challenges.*  
-   [View on GitHub](#) | [Research Paper (if available)](#)
-
-3. **Project Three**  
-   *Short overview explaining key objectives.*  
-   [View on GitHub](#) | [Research Paper (if available)](#)
-
-Feel free to check out my [GitHub repositories](https://github.com/username) for more details on additional work and collaborations.
+- **FALCON** – Graph-based simulator for high-energy physics (GSoC '20)  
+- **Protein Graph Rewiring** – Developing novel rewiring methods to enhance GNN expressivity for molecular structures  
+- **Jet Momentum Estimation** – Supervised GNN model for muon momentum inference at CMS  
+- **Basketball Trajectory Prediction** – GNN-based spatiotemporal forecasting  
+- **CFD Simulations with OpenFOAM** – Copper particles in multiphase media
 
 ---
 
-## Publications
+## Teaching & Mentorship
 
-> _Stay tuned!_ I am actively working on publishing papers in top-tier conferences and journals. Here are a few selected publications:
-
-- **Title of Paper (Conference/Journal, Year)**  
-  *Abstract or summary (one to two sentences).*
-
-- **Title of Paper (Conference/Journal, Year)**  
-  *Abstract or summary (one to two sentences).*
-
-For a full list of publications, please visit my [Google Scholar page](#) or [ResearchGate](#) (if available).
+- 🧠 **Machine Learning TA**, University of Alabama (2021)  
+- 🧑‍🏫 **Deep Learning Mentor**, Google Summer of Code (2021) – Mentored ML4Science students on fast simulation and generative deep learning models
 
 ---
 
-## Teaching & Mentoring
+## Awards
 
-I believe in the power of knowledge-sharing and enjoy mentoring aspiring students in [relevant topics]. I have served as a teaching assistant or instructor for:
+🏆 **Best Poster Award**, European Machine Learning Summer School (2024)  
+📢 **Speaker**, NVIDIA GTC 2021 AI Conference  
+🚀 **Helmholtz GPU Hackathon**, 2020 – Scaled FALCON code to multi-node GPUs
 
-- **Course Name 1** – [Brief description]  
-- **Course Name 2** – [Brief description]  
+---
 
-Feel free to reach out if you have questions about the courses I’ve taught or are interested in potential mentoring opportunities.
+## Skills
+
+**Languages**: Python, C++, Java, MATLAB  
+**Frameworks**: PyTorch, TensorFlow, OpenCV, PyTorch Geometric, DGL  
+**Tools**: Horovod, Docker, Git, OpenFOAM, ANSYS, CATIA  
+**Fields**: Machine Learning, Computational Physics, CFD, Finite Element Analysis  
+**Languages Spoken**: English, French, Arabic, German
 
 ---
 
 ## Contact
 
-I am always open to research collaborations, professional networking, and discussing creative ideas. Feel free to reach out via the platforms below:
-
-[![LinkedIn Badge](https://img.shields.io/badge/-Ali%20Hariri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-hariri-06b847ba/)](https://www.linkedin.com/in/ali-hariri-06b847ba/)  
-**Email:** [your.email@university.edu](mailto:your.email@university.edu)
+📬 Email: [ali.hariri@epfl.ch](mailto:ali.hariri@epfl.ch)  
+🔗 LinkedIn: [linkedin.com/in/ali-hariri-06b847ba](https://www.linkedin.com/in/ali-hariri-06b847ba)  
+💻 GitHub: [github.com/ahariri13](https://github.com/ahariri13)
 
 ---
 
-## Theme & Customization
-
-This page uses a minimalistic [Cayman theme](https://pages.github.com/themes/cayman/) for GitHub Pages to keep it sleek and focused on content. You can modify the `_config.yml` (if you're using Jekyll) or add custom CSS to personalize colors, fonts, or layouts.
-
-**Sample `_config.yml`** (for the Cayman theme):
-```yaml
-theme: Cayman
-title: "Ali Hariri"
-description: "PhD Student • Researcher • Innovator"
+_This site is powered by [GitHub Pages](https://pages.github.com/) and uses the **Cayman** theme for a clean and modern look._
